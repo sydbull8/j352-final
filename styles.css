@@ -13,9 +13,6 @@ a {
   background-color: #000000;
   color: white;
 }
-h1,  h4{
-  font-family: 'Oswald', sans-serif;
-}
 img {
   margin: auto;
   max-width: 100%;
@@ -32,4 +29,18 @@ h5{
 }
 p{
   font-family: 'Noto Serif', serif;
+}
+.intro {
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
+h1{
+font-family: 'Oswald', sans-serif;
+font-style: italic;
+font-size: 70px;
+}
+h4 {
+font-family: 'Oswald', sans-serif;
+font-weight: bold;
 }
