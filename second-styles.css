@@ -37,5 +37,6 @@ figcaption{
   font-style: italic;
 }
 .links{
-  font-size: 20px;
+  font-size: 16px;
+  padding: 0;
 }
