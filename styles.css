@@ -12,6 +12,8 @@ a {
   padding: 8px;
   background-color: #000000;
   color: white;
+  font-weight: bold;
+  font-size:17px;
 }
 img {
   margin: auto;
@@ -43,4 +45,18 @@ font-size: 70px;
 h4 {
 font-family: 'Oswald', sans-serif;
 font-weight: bold;
+}
+figcaption{
+  font-size: 12px;
+  color: #FFD520;
+}
+.italic{
+  font-style: italic;
+}
+.smaller{
+  font-size: 10px;
+  font-style: italic;
+  color: grey;
+  text-align: center;
+  padding: 50px;
 }

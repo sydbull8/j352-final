@@ -29,3 +29,13 @@ a{
   font-size: 30px;
   padding: 10px;
 }
+figcaption{
+  font-size: 12px;
+  color: #FFD520;
+}
+.italic{
+  font-style: italic;
+}
+.links{
+  font-size: 20px;
+}
