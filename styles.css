@@ -61,3 +61,7 @@ figcaption{
   text-align: center;
   padding: 50px;
 }
+.intro a{
+  background-color: white;
+  color: black;
+}
